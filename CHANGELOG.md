@@ -1,3 +1,9 @@
+## 4.0.1 (2026-05-12)
+
+BUG FIXES:
+
+* Fix Node 24 DEP0169 url.parse() deprecation warning by updating @hashicorp/js-releases to v1.7.7 ([#549](https://github.com/hashicorp/setup-terraform/issues/549))
+
 ## 4.0.0 (2026-02-24)
 
 BREAKING CHANGES:
